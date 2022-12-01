@@ -34,31 +34,37 @@ p{
 }
 .product-card {
     width: 50%;
+    height: 455px;
     margin: 6% auto;
     max-width: 1440px;
+    background-color: ;
 }
 
 .image-card {
     width: 45%;
+    height: 100%;
     margin: 0;
     display: inline-block;
+    background-color: hsl(0, 0%, 100%);
 }
 
 .product-image {
     width: 100%;
     border-radius: 20px 0px 0px 20px;
+    
     margin-right: 0;
 }
 
 .product-details-card {
     width: 45%;
+    height: 100%;
     padding: 20px 0px 29% 20px;
     text-align: left;
     display: inline-block;
     background-color: hsl(0, 0%, 100%);
     vertical-align: top;
     margin-left: 0;
-    background-color: red;
+
 }
 
 .product-price {
