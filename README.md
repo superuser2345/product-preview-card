@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-Product-Preview](/product-preview-card-component-main/images/Desktop-Preview.jpg)
-![Mobile-Product-Preview](/product-preview-card-component-main/images/Mobile-Preview.jpg)
+[Desktop-Product-Preview](/product-preview-card-component-main/images/Desktop-Preview.jpg)
+[Mobile-Product-Preview](/product-preview-card-component-main/images/Mobile-Preview.jpg)
 
 ### Links
 
