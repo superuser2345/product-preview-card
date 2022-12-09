@@ -12,10 +12,12 @@ body {
     text-align: center;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 section {
-    width: 40%;
+    width: 35%;
     height: 100vh;
     overflow: auto;
     margin: 0 auto;
@@ -26,7 +28,7 @@ section {
 
 section > div {
     display: flex;
-    height: 60%;
+    height: 55%;
 }
 
 .container {
@@ -36,35 +38,49 @@ section > div {
 
 .product-image {
     width: 100%;
-    border-radius: 20px 0 0 20px;
+    border-radius: 10px 0 0 10px;
 }
 
 .details-card {
     display: flex;
     flex-direction: column;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 30px;
     background-color: white;
     text-align: left;
-    border-radius: 0 20px 20px 0;
+    border-radius: 0 10px 20px 0;
 }
 
 .price-row {
     display: flex;
     align-items: center;
+    color: hsl(158, 36%, 37%);
 }
 
 h1 {
     text-transform: uppercase;
     font-weight: 500;
-    letter-spacing: 0.3rem;
+    letter-spacing: 0.25rem;
     font-size: 0.75rem;
+    color: hsl(228, 12%, 48%);
 }
 
 h2 {
     font-family: 'Fraunces', serif;
     font-weight: 700;
-    font-size: 2rem;
+    font-size: 1.7rem;
+    color: hsl(212, 21%, 14%);
+    line-height: 1;
+}
+
+div.price-row > h2 {
+    color: hsl(158, 36%, 37%);
+}
+
+p {
+    color: hsl(228, 12%, 48%);
+    font-size: 0.75rem;
+    line-height: 1.75;
 }
 
 .old-price {
@@ -74,9 +90,26 @@ h2 {
 }
 
 button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 100%;
-    padding: 0.625rem;
+    padding: 0.75rem;
     border: none;
     border-radius: 5px;
-    background-color: aqua;
+    background-color: hsl(158, 36%, 37%);
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: white;
+}
+
+button:hover {
+    background-color: hsl(158, 36%, 20%);
+    cursor: pointer;
+}
+
+.material-icons-outlined {
+    font-size: 1rem;
+    color: white;
+    padding-right: 10px;
 }
