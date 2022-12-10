@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![DesktopShot](./images/Desktop-Preview.jpg)
+[DesktopShot](./images/Desktop-Preview.jpg)
 
-![MobileShot](./images/Mobile-Preview.jpg)
+[MobileShot](./images/Mobile-Preview.jpg)
 
 ### Links
 
