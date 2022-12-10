@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Screenshot
 
-[Desktop-Product-Preview](./images/Desktop-Preview.jpg)
-[Mobile-Product-Preview](./images/Mobile-Preview.jpg)
+[Desktop-Product-Preview](.//images/Desktop-Preview.jpg)
+[Mobile-Product-Preview](.//images/Mobile-Preview.jpg)
 
 ### Links
 
@@ -132,4 +132,4 @@ I really loved Flexbox and onward will only be using flex-box. And It was just b
 
 ## Acknowledgments
 
-I want to give a hat to myself (though not being arrogant). Yes, I have done it alone, though taken help from the resources mentioned above, but still I came back after 4 days and sat around 4 hours to complete this challenge. I am really happy and proud about it.
+Thanks for the people who written above mentioned resources. They helped a lot.
