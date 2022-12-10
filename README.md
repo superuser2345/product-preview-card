@@ -29,13 +29,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-Product-Preview](../images/Desktop-Preview.jpg)
-![Mobile-Product-Preview](../images/Mobile-Preview.jpg)
+![Desktop-Product-Preview](./images/Desktop-Preview.jpg)
+![Mobile-Product-Preview](./images/Mobile-Preview.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/superuser2345/product-preview-card)
+- Live Site URL: [Add live site URL here](https://superuser2345.github.io/product-preview-card/)
 
 ## My process
 
